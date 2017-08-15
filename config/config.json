@@ -1,8 +1,8 @@
 {
     "development":
     {
-        "username": "guest",
-        "password": null,
+        "username": "root",
+        "password": "267634Tn!",
         "database": "burgers_db",
         "host": "127.0.0.1",
         "dialect": "mysql"
